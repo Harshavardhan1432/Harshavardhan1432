@@ -4,17 +4,24 @@
 <h3 align="center">A passionate Java developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshavardhan1432&label=Profile%20views&color=0e75b6&style=flat" alt="harshavardhan1432" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshavardhan1432" alt="harshavardhan1432" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/harshan011204" target="blank"><img src="https://img.shields.io/twitter/follow/harshan011204?logo=twitter&style=for-the-badge" alt="harshan011204" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
+- Diving deep into **Java**
+
+- 💻 **Cyber-Security Enthusiast**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Harshavardhan1432](https://github.com/Harshavardhan1432)
 
 - 📫 How to reach me **harshavardhanponduru@gmail.com**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshavardhan1432&label=Profile%20views&color=0e75b6&style=flat" alt="harshavardhan1432" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshavardhan1432" alt="harshavardhan1432" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
