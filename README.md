@@ -12,7 +12,7 @@
 
 - Diving deep into **Java**
 
-- 💻 **Cyber-Security Enthusiast**
+- 💻 **Tech Enthusiast**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshavardhan1432](https://github.com/Harshavardhan1432)
 
